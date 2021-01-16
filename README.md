@@ -1,2 +1,2 @@
 # javalearn_test
-Тестовое задания для javalearn
+Тестовое задание для javalearn (калькулятор)
